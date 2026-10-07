@@ -1,4 +1,4 @@
-# GPT-toy-classifier
+# GPT-Shakespeare
 This is a GPT for Shakespeare works.
 
 ## Changelog
